@@ -26,7 +26,7 @@ export default function App() {
          <Baner/>
           <Routes> 
           <Route  exact path = '/' element = {<Products/>}> </Route>   
-          <Route  exact path = '/Cart' element = {<Cart/>}> </Route>      
+          <Route  exact path = '/post' element = {<Cart/>}> </Route>      
         </Routes>  
         
          </Data>
