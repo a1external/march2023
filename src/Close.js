@@ -10,7 +10,7 @@ const Close = () => {
 
         if (bus == 0) {
             setbus(data)
-            console.log("i 1 clicked")
+            console.log("double click here")
 
         }
         else {
