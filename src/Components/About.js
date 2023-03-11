@@ -1,6 +1,7 @@
 import {useState, useEffect} from "react"
 import {Link} from "react-router-dom"
 import axios from "axios"
+// this about page
 const About = () => {
 const [temp, settemp] = useState([])
 const Apilink ="https://fakestoreapi.com/products"
